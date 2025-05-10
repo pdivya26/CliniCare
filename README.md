@@ -2,6 +2,8 @@
 
 CliniCare is a modern clinic management system designed to streamline healthcare facility operations through automation and digitization. Built with Python Tkinter for the GUI and MySQL for the backend, CliniCare tackles the common challenges faced by clinics such as manual scheduling, patient data management, and administrative inefficiencies. By simplifying appointment booking, managing patient records, and enhancing operational workflows, CliniCare empowers clinic staff to focus on what matters most—delivering quality patient care.
 
+## **Features**
+
 - **User-Friendly Interface:** Built with Python Tkinter, providing an intuitive and accessible GUI for clinic staff.
 
 - **Appointment Management:** Efficient scheduling system to reduce conflicts and optimize time slots.
@@ -12,9 +14,10 @@ CliniCare is a modern clinic management system designed to streamline healthcare
 
 - **Database Integration:** MySQL backend ensures reliable, scalable, and secure data storage.
 
-- **Technologies Used**
+- ## **Technologies Used**
   - **Frontend:** Python Tkinter
   - **Backend:** MySQL
   - **Database Connector:** mysql-connector-python
 
+## **Implementation Screenshots**
 ![Screenshot 2024-04-18 231829](https://github.com/user-attachments/assets/7d88a7cf-7ed3-40c2-b3f6-13153270d877)
