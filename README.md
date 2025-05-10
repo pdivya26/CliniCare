@@ -16,3 +16,5 @@ CliniCare is a modern clinic management system designed to streamline healthcare
   - **Frontend:** Python Tkinter
   - **Backend:** MySQL
   - **Database Connector:** mysql-connector-python
+
+![Screenshot 2024-04-18 231829](https://github.com/user-attachments/assets/7d88a7cf-7ed3-40c2-b3f6-13153270d877)
